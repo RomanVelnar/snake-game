@@ -16,6 +16,7 @@ The game was developed using only JavaScript, CSS and HTML, it is uncertain if i
 
 ### Challenges faced and features for the future
 
+First challenge was to set the continous loop that updates the snakes position and sets the snakes body. 
 
 
 
